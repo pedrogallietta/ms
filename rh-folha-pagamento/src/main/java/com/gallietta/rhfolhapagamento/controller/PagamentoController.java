@@ -11,7 +11,7 @@ import com.gallietta.rhfolhapagamento.entidades.Pagamento;
 import com.gallietta.rhfolhapagamento.negocio.PagamentoService;
 
 @RestController
-@RequestMapping(value = "pagamentos")
+@RequestMapping(value = "/pagamentos")
 public class PagamentoController {
     
     @Autowired
