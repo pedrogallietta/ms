@@ -1,4 +1,4 @@
-package com.gallietta.rhtrabalhador.web;
+package com.gallietta.rhtrabalhador.controller;
 
 import java.util.List;
 
