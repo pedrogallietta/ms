@@ -19,6 +19,9 @@ public class Perfil implements Serializable {
     private Long              id;
     private String            nome;
     
+    public Perfil() {
+    }
+    
     public Perfil(Long id, String nome) {
         super();
         this.id = id;
